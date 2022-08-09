@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/filmesCinemaReact/static/css/main.cb3fab2e.css",
-    "main.js": "/filmesCinemaReact/static/js/main.954d37f9.js",
+    "main.js": "/filmesCinemaReact/static/js/main.ae52391a.js",
     "index.html": "/filmesCinemaReact/index.html",
     "main.cb3fab2e.css.map": "/filmesCinemaReact/static/css/main.cb3fab2e.css.map",
-    "main.954d37f9.js.map": "/filmesCinemaReact/static/js/main.954d37f9.js.map"
+    "main.ae52391a.js.map": "/filmesCinemaReact/static/js/main.ae52391a.js.map"
   },
   "entrypoints": [
     "static/css/main.cb3fab2e.css",
-    "static/js/main.954d37f9.js"
+    "static/js/main.ae52391a.js"
   ]
 }
